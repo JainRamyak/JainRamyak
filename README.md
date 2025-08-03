@@ -67,7 +67,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ramyak-jain/" target="_blank"><img alt="LinkedIn" title="LinkedIn"
      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=004182"/></a>
-  <a href="https://www.instagram.com/ramyak.jain/" target="_blank"><img alt="Instagram" title="Instagram"
+  <a href="https://www.instagram.com/jain_ramyak_/" target="_blank"><img alt="Instagram" title="Instagram"
      src="https://custom-icon-badges.demolab.com/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=833AB4"/></a>
   <a href="https://github.com/JainRamyak" target="_blank"><img alt="GitHub" title="GitHub"
      src="https://custom-icon-badges.demolab.com/badge/GitHub-Profile-181717?logo=github&logoColor=white&style=for-the-badge&labelColor=0D1117"/></a>
