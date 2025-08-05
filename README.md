@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Designer/Creator)`**
 
-👋 I'm Ramyak Jain, an indie full-stack developer, content creator, and tech explorer, building creative digital solutions from the ground up. I start with a problem or a spark of curiosity—then dive into research, sketch out ideas on paper or by designing digitally, and iterate through prototypes. My projects are purpose-driven—whether it's simplifying legal help with AI, visualizing biology for farmers, or gamifying coding for beginners. I love blending creativity with code to build tools that educate, inspire, or solve real-world needs.
+👋 I'm Ramyak Jain, an indie frontend developer, content creator, and tech explorer, building creative digital solutions from the ground up. I start with a problem or a spark of curiosity—then dive into research, sketch out ideas on paper or by designing digitally, and iterate through prototypes. My projects are purpose-driven—whether it's simplifying legal help with AI, visualizing biology for farmers, or gamifying coding for beginners. I love blending creativity with code to build tools that educate, inspire, or solve real-world needs.
 
 
 <details> 
@@ -36,6 +36,8 @@
   <h3>🗄️ Databases and Cloud Hosting</h3>
 
   <p>
+      <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"></a>
+      <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
@@ -55,6 +57,7 @@
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+      <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
