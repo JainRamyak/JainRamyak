@@ -64,9 +64,6 @@
 </details>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JainRamyak" alt="Ramyak's GitHub stats"/>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ramyak-jain/" target="_blank"><img alt="LinkedIn" title="LinkedIn"
