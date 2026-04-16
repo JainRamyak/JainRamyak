@@ -1,79 +1,157 @@
-# 🏄‍♂️ Ramyak Jain
+<div align="center">
 
-**`Digital Craftsman (Developer/Designer/Creator)`**
+```
+██████╗  █████╗ ███╗   ███╗██╗   ██╗ █████╗ ██╗  ██╗
+██╔══██╗██╔══██╗████╗ ████║╚██╗ ██╔╝██╔══██╗██║ ██╔╝
+██████╔╝███████║██╔████╔██║ ╚████╔╝ ███████║█████╔╝ 
+██╔══██╗██╔══██║██║╚██╔╝██║  ╚██╔╝  ██╔══██║██╔═██╗ 
+██║  ██║██║  ██║██║ ╚═╝ ██║   ██║   ██║  ██║██║  ██╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-👋 I'm Ramyak Jain, an indie frontend developer, content creator, and tech explorer, building creative digital solutions from the ground up. I start with a problem or a spark of curiosity—then dive into research, sketch out ideas on paper or by designing digitally, and iterate through prototypes. My projects are purpose-driven—whether it's simplifying legal help with AI, visualizing biology for farmers, or gamifying coding for beginners. I love blending creativity with code to build tools that educate, inspire, or solve real-world needs.
+### `> GEN AI Developer` · `Designer` · `Digital Craftsman`
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Building+tools+that+educate%2C+inspire+%26+solve;Frontend+Dev+%7C+AI+Explorer+%7C+Content+Creator;Research+→+Sketch+→+Prototype+→+Ship+🚀)](https://git.io/typing-svg)
 
-<details> 
-  **<summary><h2>🛠️ My Favorite Tools</h2></summary>**
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
-  <h3>👨‍💻 Programming and Markup Languages</h3>
-
-  <p>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac%2B%2B"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-00599C.svg?logo=cpp2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-  </p>
-
-  <h3>🧰 Frameworks and Libraries</h3>
-
-  <p>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="Scrapy" src="https://img.shields.io/badge/Scrapy-65A644.svg?logo=python&logoColor=white"></a>
-  </p>
-
-  <h3>🗄️ Databases and Cloud Hosting</h3>
-
-  <p>
-      <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"></a>
-      <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
-      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-  </p>
-
-  <h3>💻 Software and Tools</h3>
-
-  <p>
-      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-      <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-      <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-      <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?logo=canva&logoColor=white"></a>
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-      <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-1ABCFE.svg?logo=figma&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  </p>
-</details>
-
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ramyak-jain/" target="_blank"><img alt="LinkedIn" title="LinkedIn"
-     src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=004182"/></a>
-  <a href="https://www.instagram.com/jain_ramyak_/" target="_blank"><img alt="Instagram" title="Instagram"
-     src="https://custom-icon-badges.demolab.com/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=833AB4"/></a>
-  <a href="https://github.com/JainRamyak" target="_blank"><img alt="GitHub" title="GitHub"
-     src="https://custom-icon-badges.demolab.com/badge/GitHub-Profile-181717?logo=github&logoColor=white&style=for-the-badge&labelColor=0D1117"/></a>
-  <a href="https://x.com/Ramyak_Jain_" target="_blank"><img alt="X" title="X"
-     src="https://custom-icon-badges.demolab.com/badge/Profile-000000?logo=x&logoColor=white&style=for-the-badge&labelColor=1A1A1A"/></a>
-</p>
+</div>
 
 ---
+
+## 🧑‍💻 `WHO_AM_I`
+
+
+
+```
+Name     : Ramyak Jain
+Role     : Gen AI Developer + Content Creator + Tech Explorer + Designer
+Location : India 🇮🇳
+Status   : Building creative digital solutions from the ground up ⚡
+
+Mission  : Blending creativity with code to build tools that educate,
+           inspire, or solve real-world problems.
+
+Projects : 🤖 AI-powered legal help simplification
+           🌿 Biology visualization for farmers
+           🎮 Gamified coding for beginners
+```
+
+---
+
+## ⚡ `Tech-Stack`
+
+<div align="center">
+
+### 👨‍💻 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-03599C?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### 🧰 Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-65A644?style=flat-square&logo=python&logoColor=white)
+
+### 🗄️ Databases & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### 🛠️ Dev Tools & Design
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1ABCFE?style=flat-square&logo=figma&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-010101?style=flat-square&logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
+
+</div>
+
+---
+
+## 📊 `Git Log --Stats`
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JainRamyak&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JainRamyak&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainRamyak&theme=radical&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FF6B35&currStreakLabel=00FF88" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏗️ `./projects --interesting`
+
+```javascript
+const projects = [
+  {
+    name: "⚖️  AI Legal Helper",
+    desc: "Simplifying legal access with AI — because justice shouldn't need a law degree",
+    stack: ["Python", "Flask", "AI/NLP"],
+  },
+  {
+    name: "🌿  BioViz for Farmers",
+    desc: "Visualizing biology concepts to empower agricultural communities",
+    stack: ["React", "D3.js", "Data Viz"],
+  },
+  {
+    name: "🎮  CodeQuest",
+    desc: "Gamifying coding education for absolute beginners",
+    stack: ["JavaScript", "React", "Gamification"],
+  },
+];
+```
+
+> 💡 *Purpose-driven builds — if it doesn't solve something real, it doesn't ship.*
+
+---
+
+## 🔄 `./workflow.sh`
+
+```
+[Research] ──▶ [Sketch / Design] ──▶ [Prototype] ──▶ [Iterate] ──▶ [Ship 🚀]
+     │                │                    │               │
+   Curiosity      Paper first          Build fast      Fail fast
+```
+
+---
+
+## 🌐 `Insta-LinkedIN-X GET /connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramyak_Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramyak-jain/)
+[![GitHub](https://img.shields.io/badge/GitHub-JainRamyak-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JainRamyak)
+[![Instagram](https://img.shields.io/badge/Instagram-@jain__ramyak__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jain_ramyak_/)
+[![X / Twitter](https://img.shields.io/badge/X-@Ramyak__Jain__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ramyak_Jain_)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=JainRamyak&color=00FF88&style=flat-square&label=Profile+Views)
+
+```bash
+ "Thanks for visiting. Let's build something meaningful together." 
+```
+
+</div>
