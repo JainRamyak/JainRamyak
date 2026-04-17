@@ -11,15 +11,32 @@
 
 ### `> GEN AI Developer` · `Designer` · `Digital Craftsman`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Building+tools+that+educate%2C+inspire+%26+solve;Frontend+Dev+%7C+AI+Explorer+%7C+Content+Creator;Research+→+Sketch+→+Prototype+→+Ship+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=650&height=70&lines=Building+tools+that+educate%2C+inspire+%26+solve+%F0%9F%9A%80;Frontend+Dev+%7C+Gen+AI+Explorer+%7C+Content+Creator;RAG+%7C+Embeddings+%7C+LLMs+%7C+Full+Stack;Research+%E2%86%92+Sketch+%E2%86%92+Prototype+%E2%86%92+Ship)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
+<!-- ANIMATED SNAKE CONTRIBUTION GRAPH — setup instructions below -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JainRamyak/JainRamyak/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JainRamyak/JainRamyak/output/github-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/JainRamyak/JainRamyak/output/github-snake-dark.svg" />
+</picture>
+
+<details>
+<summary>⚙️ How to enable the snake animation</summary>
+<br/>
+Add <a href="https://github.com/Platane/snk">this GitHub Action</a> to your profile repo under <code>.github/workflows/snake.yml</code> — it auto-generates the SVG on a schedule.
+</details>
+
+---
+
 ## 🧑‍💻 `WHO_AM_I`
 
-
+```bash
+$ cat about.txt
+```
 
 ```
 Name     : Ramyak Jain
@@ -30,9 +47,9 @@ Status   : Building creative digital solutions from the ground up ⚡
 Mission  : Blending creativity with code to build tools that educate,
            inspire, or solve real-world problems.
 
-Projects : 🤖 AI-powered legal help simplification
-           🌿 Biology visualization for farmers
-           🎮 Gamified coding for beginners
+Current  : 🧠 Deep-diving into RAG pipelines & LLM applications
+           🌐 Shipping full-stack AI-powered products
+           ✍️  Creating content that demystifies tech
 ```
 
 ---
@@ -70,6 +87,14 @@ Projects : 🤖 AI-powered legal help simplification
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
+### 🤖 AI / ML Stack
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=databricks&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
 ### 🛠️ Dev Tools & Design
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
@@ -87,34 +112,53 @@ Projects : 🤖 AI-powered legal help simplification
 ## 📊 `Git Log --Stats`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JainRamyak&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JainRamyak&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF"/>
+
+<a href="https://github.com/JainRamyak">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JainRamyak&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&theme=dark" />
+</a>
+<a href="https://github.com/JainRamyak">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JainRamyak&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&theme=dark&langs_count=8" />
+</a>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainRamyak&theme=radical&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FF6B35&currStreakLabel=00FF88" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=JainRamyak&theme=dark&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FF6B35&currStreakLabel=00FF88&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JainRamyak&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&area_color=00FF8820&hide_border=true" alt="Contribution Activity Graph" />
 </div>
 
 ---
 
-## 🏗️ `./projects --interesting`
+## 🏗️ `./projects --featured`
 
 ```javascript
 const projects = [
   {
     name: "⚖️  AI Legal Helper",
-    desc: "Simplifying legal access with AI — because justice shouldn't need a law degree",
-    stack: ["Python", "Flask", "AI/NLP"],
+    desc: "Simplifying legal access with AI — justice shouldn't need a law degree",
+    stack: ["Python", "Flask", "NLP", "LLM"],
+    status: "🟢 Active",
+  },
+  {
+    name: "🧠  RAG Embedder",
+    desc: "Chat with your own documents — a full RAG pipeline with semantic search",
+    stack: ["Python", "LangChain", "ChromaDB", "OpenAI Embeddings", "FAISS"],
+    status: "🟢 Active",
   },
   {
     name: "🌿  BioViz for Farmers",
     desc: "Visualizing biology concepts to empower agricultural communities",
     stack: ["React", "D3.js", "Data Viz"],
+    status: "🟡 In Progress",
   },
   {
     name: "🎮  CodeQuest",
     desc: "Gamifying coding education for absolute beginners",
     stack: ["JavaScript", "React", "Gamification"],
+    status: "🟡 In Progress",
   },
 ];
 ```
@@ -133,7 +177,28 @@ const projects = [
 
 ---
 
-## 🌐 `Insta-LinkedIN-X GET /connect`
+## 🎃 Hacktoberfest
+
+<div align="center">
+
+[![An image of @jainramyak's Holopin badges](https://holopin.me/jainramyak)](https://holopin.io/@jainramyak)
+
+</div>
+
+```
+ 🗓  October  ·  Open Source  ·  PRs Merged  ·  Community First 🌍
+ ┌──────────────────────────────────────────────────────────────┐
+ │  ██████████████████████░░░░  Hacktoberfest Contributor  🧡   │
+ │                                                              │
+ │  "Open Source is not a month — it's a mindset."              │
+ └──────────────────────────────────────────────────────────────┘
+```
+
+> 🧡 Proud Hacktoberfest contributor — great software is built together.
+
+---
+
+## 🌐 `curl -X GET /connect`
 
 <div align="center">
 
@@ -148,10 +213,24 @@ const projects = [
 
 <div align="center">
 
+<!-- NICHE ANIMATION: Random dev quote — changes on every profile visit -->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=JainRamyak&color=00FF88&style=flat-square&label=Profile+Views)
+&nbsp;&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/JainRamyak?color=00FF88&style=flat-square&logo=github&label=Followers)
+
+<br/><br/>
 
 ```bash
- "Thanks for visiting. Let's build something meaningful together." 
+> Thanks for visiting. Let's build something meaningful together. ✨
 ```
+
+<br/>
+
+<!-- ANIMATED FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=80&section=footer" />
 
 </div>
