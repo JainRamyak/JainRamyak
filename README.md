@@ -11,8 +11,6 @@
 
 ### `> GEN AI Developer` · `Designer` · `Digital Craftsman`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=650&height=70&lines=Building+tools+that+educate%2C+inspire+%26+solve+%F0%9F%9A%80;Frontend+Dev+%7C+Gen+AI+Explorer+%7C+Content+Creator;RAG+%7C+Embeddings+%7C+LLMs+%7C+Full+Stack;Research+%E2%86%92+Sketch+%E2%86%92+Prototype+%E2%86%92+Ship)](https://git.io/typing-svg)
-
 </div>
 
 ---
