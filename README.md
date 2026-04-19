@@ -20,10 +20,8 @@
 ## 🧑‍💻 `WHO_AM_I`
 
 ```bash
-$ cat about.txt
-```
 
-```
+
 Name     : Ramyak Jain
 Role     : Gen AI Developer + Content Creator + Tech Explorer + Designer
 Location : India 🇮🇳
