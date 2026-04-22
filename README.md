@@ -168,16 +168,9 @@ const projects = [
 
 </div>
 
-```
- 🗓  October  ·  Open Source  ·  PRs Merged  ·  Community First 🌍
- ┌──────────────────────────────────────────────────────────────┐
- │  ██████████████████████░░░░  Hacktoberfest Contributor  🧡   │
- │                                                              │
- │  "Open Source is not a month — it's a mindset."              │
- └──────────────────────────────────────────────────────────────┘
-```
 
-> 🧡 Proud Hacktoberfest contributor — great software is built together.
+
+
 
 ---
 
