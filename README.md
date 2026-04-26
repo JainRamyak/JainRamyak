@@ -198,14 +198,7 @@ const projects = [
 &nbsp;&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/JainRamyak?color=00FF88&style=flat-square&logo=github&label=Followers)
 
-<br/><br/>
-
-```bash
-> Thanks for visiting. Let's build something meaningful together. ✨
-```
-
 <br/>
-
 <!-- ANIMATED FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=80&section=footer" />
 
